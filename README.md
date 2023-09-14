@@ -1,7 +1,11 @@
 # PDWA5
 API
 
-PROGRAMAS E FERRAMENTAS: Javascript; Node.js; Express.js; Swagger; POSTMAN; Codesandbox; Vercel;  Github.
+PROGRAMAS E FERRAMENTAS: Javascript; Node.js; Express.js; Swagger; POSTMAN; Codesandbox; Vercel;  Github; GitPod
+
+app.swaggerhub.com
+codesandbox.io
+https://miro.com/app/board/uXjVMrKj25w=/?share_link_id=23171042567
 
 1 Apresentação da dificuldade
 Joana sempre foi apaixonada por livros. Desde pequena, seu lugar preferido era o SEBO da esquina,
